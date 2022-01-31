@@ -4,9 +4,9 @@
 
 .page-button {
     border: 0 !important;
-    width: 280px;
-    height: 5vh !important;
-    font-size: 18px !important;
+    width: 32%;
+    height: 100% !important;
+    font-size: 100% !important;
 }
 
 .update-button {
